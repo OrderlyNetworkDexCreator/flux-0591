@@ -13,7 +13,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "ccae279d719b3900da674a823959b0e3",
   "VITE_APP_NAME": "Flux",
   "VITE_APP_DESCRIPTION": "Decentralized crypto exchange with deep liquidity",
   "VITE_HAS_PRIMARY_LOGO": "true",
