@@ -30,7 +30,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/flux-0591/",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
-  "VITE_SEO_TWITTER_HANDLE": "@wallet_vision",
+  "VITE_SEO_TWITTER_HANDLE": "@Flux_Dex",
   "VITE_SEO_THEME_COLOR": "#000000",
   "VITE_SEO_KEYWORDS": "Dex, crypto, trading, defi, orderly",
   "VITE_AVAILABLE_LANGUAGES": "en,ru,fr,id,it,pl,pt,tr,uk,nl,vi,es,tc,zh,ja,ko,de",
